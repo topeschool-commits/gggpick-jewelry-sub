@@ -1,22 +1,22 @@
 {
     "domain": "jewelry.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "목걸이 및 귀걸이",
+        "반지 및 팔찌",
+        "보석 및 금"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang jewelry items."
+        "목걸이 및 귀걸이": {
+            "topic": "Silver necklaces, pearl earrings, pendants.",
+            "role": "Jewelry fashion expert."
         },
-        "수유/이유식": {
-            "topic": "jewelry bottle sterilizers, jewelry food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "반지 및 팔찌": {
+            "topic": "Couples rings, bracelets, bangles.",
+            "role": "Accessory reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "보석 및 금": {
+            "topic": "Gold jewelry, diamond rings, premium jewelry.",
+            "role": "Fine jewelry curator."
         }
     }
 }
